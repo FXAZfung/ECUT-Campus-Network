@@ -6,7 +6,7 @@
 
 ### Windows
 
-1. 下载[ecut.exe]()
+1. 下载[ecut.exe](https://github.com/FXAZfung/ECUT-Campus-Network/releases/download/v0.1.0/ecut.exe)
 2. 右键点击`ecut.exe`，选择`发送到`->`桌面快捷方式`
 3. 右键点击桌面快捷方式，选择`属性`，在`快捷方式`标签页中的`目标`后面加上`-u=账号 -p=密码 -s=运营商`，如
    `C:\Users\username\Desktop\ecut.exe -u="123456" -p="123456" -s="移动"`
